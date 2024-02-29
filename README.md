@@ -17,7 +17,7 @@ Before running the application, make sure you have the following installed on yo
 
 - Flutter SDK
 - Dart SDK
-- Android Studio / Xcode for Android / iOS development
+- Vs code or Android Studio
 - Git (optional)
 
 ### Installation
