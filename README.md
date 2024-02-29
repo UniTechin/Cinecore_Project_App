@@ -22,14 +22,14 @@ Before running the application, make sure you have the following installed on yo
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone or dowload .zip file from this repository to your local machine:
 
    ```bash
    git clone <repository-url>
 
 ### How to run
 1. Open the terminal in the programing tool script (e.g. Vs code) and fill the command as show bellow.
- 
-  ```bash
-     flutter run
 
+   ```bash
+   flutter run
+ 
