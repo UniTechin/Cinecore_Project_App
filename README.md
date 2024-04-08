@@ -2,6 +2,9 @@
 
 Cinecore is a mobile application built with Flutter that allows users to explore and review their favorite movies.
 
+## The final product app in .txt file
+- It is contain a google drive link to navigate to project's files folder, pls dowload them there to run the app.
+ 
 ## Features
 
 - Browse a collection of popular movies.
